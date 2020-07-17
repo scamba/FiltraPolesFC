@@ -27,13 +27,13 @@ En próximas versiones, habrá opciones para eliminar "temas serios", y más nov
 # Capturas
 
 Sin hilos para polear
-https://iili.io/dfm0Bt.jpg
+<img src="https://iili.io/dfm0Bt.jpg" alt="Sin hilos para polear"/>
 
 Un hilo para polear
-https://iili.io/dfmcQI.jpg
+<img src="https://iili.io/dfmcQI.jpg" alt="Un hilo para polear"/>
 
 Más de un hilo para polear
-https://iili.io/dfmahN.jpg
+<img src="https://iili.io/dfmahN.jpg" alt="Más de un hilo para polear"/>
 
 .
 .
