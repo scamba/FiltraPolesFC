@@ -1,6 +1,6 @@
 # FiltraPolesFC
 
-Script sencillo para filtrar los hilos del general y mostrar solo los susceptibles de ser poleados.
+Script sencillo para filtrar los hilos del foro general en Forocoches y mostrar sólo los susceptibles de ser poleados.
 
 De momento muestra <b>todos</b> los hilos cuyos mensajes sean 0.
 
