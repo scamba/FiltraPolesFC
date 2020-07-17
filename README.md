@@ -1,14 +1,14 @@
 # FiltraPolesFC
 
-Script para filtrar los hilos del general y mostrar solo los susceptibles de ser poleados.
+Script sencillo para filtrar los hilos del general y mostrar solo los susceptibles de ser poleados.
 
-De momento muestra todos los hilos cuyos mensajes sean 0.
+De momento muestra <b>todos</b> los hilos cuyos mensajes sean 0.
 
 En próximas versiones, habrá opciones para eliminar "temas serios", y más novedades.
 
-.
-.
-.
+.<br>
+.<br>
+.<br>
 
 # ¿Cómo se usa?
 
@@ -20,24 +20,27 @@ En próximas versiones, habrá opciones para eliminar "temas serios", y más nov
 6) En el listado de hilos, te filtrará los mensajes poleables.
 7) A POLEAR!!
 
-.
-.
-.
+.<br>
+.<br>
+.<br>
 
 # Capturas
 
-Sin hilos para polear
 <img src="https://iili.io/dfm0Bt.jpg" alt="Sin hilos para polear"/>
+<b>Sin hilos para polear</b>
+<br><br>
 
-Un hilo para polear
 <img src="https://iili.io/dfmcQI.jpg" alt="Un hilo para polear"/>
+<b>Un hilo para polear</b>
+<br><br>
 
-Más de un hilo para polear
 <img src="https://iili.io/dfmahN.jpg" alt="Más de un hilo para polear"/>
+<b>Más de un hilo para polear</b>
+<br><br>
 
-.
-.
-.
+.<br>
+.<br>
+.<br>
 
 # Aviso
 
