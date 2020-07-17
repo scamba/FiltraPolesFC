@@ -4,7 +4,7 @@ Script sencillo para filtrar los hilos del general y mostrar solo los susceptibl
 
 De momento muestra <b>todos</b> los hilos cuyos mensajes sean 0.
 
-En próximas versiones, habrá opciones para eliminar "temas serios", y más novedades.
+En próximas versiones, habrá opciones para eliminar "temas serios", mensajes personalizables, autoactualizar la página, etc.
 
 .<br>
 .<br>
